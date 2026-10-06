@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/shashwat-2006/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0450-delete-node-in-a-bst](https://github.com/shashwat-2006/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/shashwat-2006/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
@@ -21,10 +22,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/shashwat-2006/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0450-delete-node-in-a-bst](https://github.com/shashwat-2006/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/shashwat-2006/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/shashwat-2006/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0450-delete-node-in-a-bst](https://github.com/shashwat-2006/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+## Math
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/shashwat-2006/Leetcode/tree/master/0096-unique-binary-search-trees) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/shashwat-2006/Leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
